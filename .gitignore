@@ -1,0 +1,6 @@
+# Archivos de entorno
+.env
+.yaml
+
+# Node modules
+node_modules/
